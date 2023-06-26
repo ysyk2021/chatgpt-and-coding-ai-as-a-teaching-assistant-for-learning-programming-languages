@@ -1,5 +1,4 @@
-Chapter 2: Challenges in Learning Programming Languages: Common Challenges Faced by Learners
-============================================================================================
+# Common Challenges Faced by Learners
 
 In this chapter, we will explore the common challenges faced by learners when learning programming languages.
 

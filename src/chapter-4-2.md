@@ -1,5 +1,4 @@
-Chapter 3: The Role of AI and Chatbots in Programming Language Learning: How AI and Chatbots can Assist with Programming Language Learning
-==========================================================================================================================================
+# How AI and Chatbots can Assist with Programming Language Learning
 
 In this chapter, we will discuss the role of AI and chatbots in programming language learning and how they can assist students in their learning journey.
 

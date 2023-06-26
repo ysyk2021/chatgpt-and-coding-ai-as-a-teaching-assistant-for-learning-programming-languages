@@ -1,5 +1,4 @@
-Chapter 1: Basics of Programming Languages: Definition of Programming Languages
-===============================================================================
+# Definition of Programming Languages
 
 Programming languages are a vital tool for software development, and understanding their basics is crucial for any aspiring programmer. In this chapter, we will define programming languages and discuss the different types of programming languages.
 

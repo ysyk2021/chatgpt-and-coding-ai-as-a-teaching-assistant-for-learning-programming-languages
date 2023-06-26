@@ -1,5 +1,4 @@
-Chapter 2: Challenges in Learning Programming Languages: Factors Affecting Programming Language Learning
-========================================================================================================
+# Factors Affecting Programming Language Learning
 
 In this chapter, we will explore the factors that can affect programming language learning and contribute to the challenges discussed in the previous chapter.
 

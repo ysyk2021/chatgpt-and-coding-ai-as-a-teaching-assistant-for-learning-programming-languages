@@ -1,5 +1,4 @@
-Chapter 1: Basics of Programming Languages: Different Types of Programming Languages
-====================================================================================
+# Different Types of Programming Languages
 
 Programming languages are an essential tool for software development, and understanding the different types of programming languages is crucial for any aspiring programmer. In this chapter, we will discuss the various types of programming languages and their characteristics.
 
