@@ -22,16 +22,12 @@ MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. H
 6. Machine learning for coding
 7. Personalized learning
 8. Gamified learning
-9. Python programming
-10. Java programming
-11. C++ programming
-12. Rust programming
-13. Programming tools
-14. Online courses for coding
-15. Virtual reality and coding
-16. Artificial intelligence and education
-17. Chatbots for education
-18. Advancements in coding education
-19. Learning algorithms through AI
-20. Future of coding education
+9. Programming tools
+10. Online courses for coding
+11. Virtual reality and coding
+12. Artificial intelligence and education
+13. Chatbots for education
+14. Advancements in coding education
+15. Learning algorithms through AI
+16. Future of coding education
 
