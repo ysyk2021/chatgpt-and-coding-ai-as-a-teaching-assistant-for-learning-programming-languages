@@ -1,4 +1,3 @@
-# Importance of Learning Programming Languages
 
 In this chapter, we will discuss the basics of programming languages and why it is important to learn them.
 

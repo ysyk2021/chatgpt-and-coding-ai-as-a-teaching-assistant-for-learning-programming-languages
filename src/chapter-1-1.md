@@ -1,5 +1,3 @@
-Overview of the Book
-==================================
 
 In this book, we will explore the role of ChatGPT as a teaching assistant for learning programming languages. We will discuss the basics of programming languages, including their definition and different types. We will also examine the importance of learning programming languages and how they can be used in various industries.
 

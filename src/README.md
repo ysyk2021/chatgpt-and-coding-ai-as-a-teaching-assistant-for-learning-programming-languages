@@ -1,4 +1,3 @@
-# Introduction
 
 Artificial Intelligence (AI) has been transforming various aspects of our lives, including education. AI tools like ChatGPT can be used as a teaching assistant to improve the effectiveness and efficiency of learning programming languages. With the growing demand for coding skills in today's workforce, there is an increasing need to find innovative and effective ways to teach programming language.
 

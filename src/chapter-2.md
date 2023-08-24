@@ -1,5 +1,3 @@
-Chapter 1: Basics of Programming Languages
-==========================================
 
 In this chapter, we will discuss the basics of programming languages, including their definition, different types, and the importance of learning them.
 

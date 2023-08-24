@@ -1,4 +1,3 @@
-# Impact of these challenges on Skill Development
 
 In this chapter, we will explore the challenges that learners face when learning programming languages and how these challenges can impact their skill development.
 

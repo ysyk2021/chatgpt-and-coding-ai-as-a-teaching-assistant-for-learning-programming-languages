@@ -1,4 +1,3 @@
-# Introduction to AI and Chatbots
 
 In this chapter, we will introduce the concepts of artificial intelligence (AI) and chatbots and discuss their potential role in programming language learning.
 
@@ -27,5 +26,4 @@ The use of AI and chatbots in programming language learning has several potentia
 * Helping students stay motivated and engaged
 
 Overall, AI and chatbots have the potential to revolutionize programming language learning by providing personalized support to students and helping them succeed in a rapidly evolving technological landscape. In the following chapters, we will explore how ChatGPT specifically can serve as a teaching assistant for learning programming languages.
-
 

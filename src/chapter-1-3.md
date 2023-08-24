@@ -1,5 +1,3 @@
-The Role of ChatGPT in Assisting with Programming Language Learning
-=================================================================================
 
 In recent years, Artificial Intelligence (AI) has been transforming the way we learn and interact with technology. One area where AI has shown significant promise is in assisting with programming language learning. In this book, we will explore the role of ChatGPT as a teaching assistant for learning programming languages.
 

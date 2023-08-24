@@ -1,5 +1,3 @@
-Chapter 3: The Role of AI and Chatbots in Programming Language Learning
-=======================================================================
 
 In this chapter, we will introduce the concepts of artificial intelligence (AI) and chatbots and explore how they can assist with programming language learning. We will also discuss the benefits of using AI and chatbots for learners.
 

@@ -1,4 +1,3 @@
-# Benefits of Using AI and Chatbots for Learners
 
 In this chapter, we will discuss the benefits of using AI and chatbots for learners in programming language learning.
 

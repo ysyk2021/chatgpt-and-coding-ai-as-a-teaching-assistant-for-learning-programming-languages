@@ -1,5 +1,3 @@
-Chapter 4: Understanding ChatGPT
-================================
 
 In this chapter, we will introduce and explore the features and capabilities of ChatGPT and how it can be used as a teaching assistant for programming language learning.
 

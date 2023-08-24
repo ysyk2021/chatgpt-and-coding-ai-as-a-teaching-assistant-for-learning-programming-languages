@@ -1,4 +1,3 @@
-# Emerging Trends and Challenges in Programming Language Learning and ChatGPT
 
 In this chapter, we will explore the emerging trends and challenges in programming language learning and how ChatGPT can play a role in shaping the future of programming language learning.
 

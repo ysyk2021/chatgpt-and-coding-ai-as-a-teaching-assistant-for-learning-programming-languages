@@ -27,4 +27,3 @@ ChatGPT can be a powerful tool for improving the efficiency and effectiveness of
 
 By following the steps to implement ChatGPT in programming language learning, utilizing best practices for using ChatGPT in improving skill development, and examining successful case studies, learners can effectively leverage ChatGPT as a teaching assistant for learning programming languages.
 
-

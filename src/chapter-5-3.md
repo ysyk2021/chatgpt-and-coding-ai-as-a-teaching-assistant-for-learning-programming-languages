@@ -1,4 +1,3 @@
-# How ChatGPT can be used as a Teaching Assistant for Programming Language Learning
 
 In this chapter, we will explore how ChatGPT can be used as a teaching assistant for programming language learning. We will discuss its capabilities, limitations, and best practices for using it effectively.
 

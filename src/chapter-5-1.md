@@ -1,4 +1,3 @@
-# What is ChatGPT?
 
 ChatGPT, or Generative Pre-trained Transformer 3, is a state-of-the-art AI language model developed by OpenAI. It uses deep learning algorithms to generate human-like responses to user queries, making it a powerful tool for natural language processing applications such as language translation and text generation.
 
@@ -22,5 +21,4 @@ The use of ChatGPT as a teaching assistant for programming language learning off
 * Multi-lingual support: ChatGPT has the capability for multi-lingual support, meaning it can understand and respond to queries in multiple languages. This feature greatly increases the accessibility of programming language learning for learners around the world.
 
 In conclusion, ChatGPT's natural language processing capabilities, personalized feedback and assistance, interactive learning experiences, and multi-lingual support make it a powerful tool for programming language learning. Its ability to generate human-like responses to user queries further enhances its potential for transforming the way we teach and learn coding.
-
 

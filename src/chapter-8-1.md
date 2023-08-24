@@ -1,5 +1,3 @@
-Conclusion: Summary of key points
-=================================
 
 In this book, we have explored the potential of ChatGPT as a teaching assistant for programming language learning. We have discussed the features and capabilities of ChatGPT, as well as its implementation in case studies of successful learners.
 

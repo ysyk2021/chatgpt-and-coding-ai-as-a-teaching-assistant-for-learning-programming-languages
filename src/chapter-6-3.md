@@ -1,4 +1,3 @@
-# Case studies of learners that have successfully used ChatGPT in their programming language learning
 
 ChatGPT has the potential to transform the way we teach and learn programming languages, providing personalized feedback and assistance in a natural and intuitive way. In this chapter, we will explore case studies of learners who have successfully used ChatGPT in their programming language learning.
 

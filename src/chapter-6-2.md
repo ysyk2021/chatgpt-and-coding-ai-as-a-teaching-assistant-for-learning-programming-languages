@@ -1,4 +1,3 @@
-# Best Practices for Using ChatGPT in Improving Skill Development
 
 As we have seen in the previous chapters, ChatGPT can be an effective tool for assisting learners in their programming language learning journey. In this chapter, we will discuss the best practices for using ChatGPT in improving skill development.
 

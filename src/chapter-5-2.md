@@ -1,4 +1,3 @@
-# Features and capabilities of ChatGPT
 
 ChatGPT is a state-of-the-art AI language model that uses deep learning algorithms to generate human-like responses to user queries. In the context of programming language learning, ChatGPT can function as a teaching assistant, providing personalized feedback and assistance to learners as they work through coding exercises and projects.
 
