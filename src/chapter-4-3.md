@@ -1,5 +1,4 @@
-Chapter 3: Benefits of Using AI and Chatbots for Learners
-=========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the numerous benefits that learners can experience by using AI and chatbots as teaching assistants for learning programming languages. Discover how these technologies can enhance the learning process and support learners in their journey.
 

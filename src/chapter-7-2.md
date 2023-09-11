@@ -1,5 +1,4 @@
-Chapter 8: Emerging Trends and Challenges in Programming Language Learning and ChatGPT
-======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As programming languages continue to evolve and technology advances, the landscape of programming language learning is constantly changing. In this chapter, we will explore the emerging trends and challenges in programming language learning and how ChatGPT can address them.
 

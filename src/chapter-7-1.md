@@ -1,5 +1,4 @@
-Chapter 5: Potential Advancements in Programming Language Learning with ChatGPT
-===============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT opens up exciting possibilities for advancements in programming language learning. As the technology continues to evolve, let's explore some potential advancements that can revolutionize the way learners engage with programming languages.
 

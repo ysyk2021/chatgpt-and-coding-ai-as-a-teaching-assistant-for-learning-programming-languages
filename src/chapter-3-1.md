@@ -1,5 +1,4 @@
-Chapter 3: Factors Affecting Programming Language Learning
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Learning a programming language is influenced by various factors that can impact the effectiveness and efficiency of the learning process. In this chapter, we will explore some key factors that can significantly affect programming language learning when utilizing AI teaching assistants like ChatGPT.
 

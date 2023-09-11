@@ -1,5 +1,4 @@
-Chapter 3: Different Types of Programming Languages
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Programming languages come in various types, each with its own unique features and purposes. In this chapter, we will explore the different types of programming languages and understand their strengths and applications.
 

@@ -1,5 +1,4 @@
-Chapter 1: What is ChatGPT?
-===========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, which stands for "Chat Generative Pre-trained Transformer," is an advanced AI language model developed by OpenAI. The model is based on the Transformer architecture and is trained using a variant of the Reinforcement Learning from Human Feedback (RLHF) approach.
 

@@ -1,5 +1,4 @@
-Chapter 5: Impact of These Challenges on Skill Development
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 The challenges discussed in the previous chapters have a significant impact on skill development when learning programming languages with the help of AI teaching assistants like ChatGPT. In this chapter, we examine how these challenges can affect learners and their journey towards acquiring programming skills.
 

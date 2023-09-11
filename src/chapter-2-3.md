@@ -1,5 +1,4 @@
-Chapter 2: Importance of Learning Programming Languages
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Programming languages play a crucial role in modern society, powering various technologies and driving innovation across industries. In this chapter, we will delve into the importance of learning programming languages and how they empower individuals to thrive in the digital age.
 

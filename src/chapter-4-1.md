@@ -1,5 +1,4 @@
-Chapter 1: Introduction to AI and Chatbots
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an introduction to Artificial Intelligence (AI) and chatbots, highlighting their significance in the field of education and specifically in teaching programming languages.
 

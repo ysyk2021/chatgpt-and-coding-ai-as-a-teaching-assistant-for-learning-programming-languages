@@ -1,5 +1,4 @@
-Chapter 9: Conclusion and Future Outlook
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this book, we explored the role of ChatGPT as a teaching assistant for learning programming languages. We discussed its capabilities, benefits, and how it addresses various challenges in programming language education. In this final chapter, we summarize our findings and provide a glimpse into the future outlook of ChatGPT and AI in programming language learning.
 

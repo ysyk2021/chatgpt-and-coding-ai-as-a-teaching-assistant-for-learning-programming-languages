@@ -1,5 +1,4 @@
-Chapter 1: Definition of Programming Languages
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Programming languages are formal languages used to communicate instructions to a computer system. They provide a structured and standardized way of writing code that is executable by computers. In this chapter, we will explore the definition, characteristics, and purpose of programming languages.
 

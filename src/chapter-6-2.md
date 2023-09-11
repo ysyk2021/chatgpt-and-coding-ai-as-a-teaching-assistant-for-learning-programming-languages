@@ -1,5 +1,4 @@
-Chapter 6: Best Practices for Using ChatGPT in Improving Skill Development
-==========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the best practices for leveraging AI models like ChatGPT as teaching assistants to enhance skill development in programming languages.
 

@@ -1,5 +1,4 @@
-Chapter 2: Steps to Implement ChatGPT in Programming Language Learning
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will outline the steps involved in implementing ChatGPT as a teaching assistant for learning programming languages. Follow these steps to effectively integrate ChatGPT into your programming language learning curriculum.
 

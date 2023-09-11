@@ -1,5 +1,4 @@
-Chapter 3: Features and Capabilities of ChatGPT
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT is equipped with a wide range of features and capabilities that make it a powerful teaching assistant for learning programming languages. In this chapter, we will explore the key functionalities that ChatGPT possesses.
 
